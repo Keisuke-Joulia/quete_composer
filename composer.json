@@ -1,0 +1,16 @@
+{
+    "name": "keisuke/quete_composer",
+    "description": "Projet quete composer",
+    "authors": [
+        {
+            "name": "Keisuke Joulia",
+            "email": "keisukejoulia@yahoo.co.jp"
+        }
+    ],
+    "require": {},
+
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+    }
+
+}
